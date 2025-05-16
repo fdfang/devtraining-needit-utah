@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Web Services">18f23e670a0a0b2400c55b122be52373</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>User customized web service</hint>
+        <homepage/>
+        <image>images/icons/web_services_mapped.gifx</image>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>NeedIt Import REST</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1050</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>v_ws_editor.do?sysparm_query=name=x_58872_needit_needit_import_rest</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 04:32:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3a6fdca583656650fa7e7230feaad32d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Import REST</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_3a6fdca583656650fa7e7230feaad32d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 04:32:19</sys_updated_on>
+        <timeline_page/>
+        <title>NeedIt Import REST</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9863785debec6e5456eafddacad0cd61</instance_id>
+        <instance_name>dev311432</instance_name>
+        <name>sys_app_module_3a6fdca583656650fa7e7230feaad32d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Web Services">18f23e670a0a0b2400c55b122be52373</application><assessment/><device_type/><filter/><hint>User customized web service</hint><homepage/><image>images/icons/web_services_mapped.gifx</image><link_type>DIRECT</link_type><map_page/><mobile_title>NeedIt Import REST</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1050</order><override_menu_roles>false</override_menu_roles><query>v_ws_editor.do?sysparm_query=name=x_58872_needit_needit_import_rest</query><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-16 04:32:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3a6fdca583656650fa7e7230feaad32d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Import REST</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_3a6fdca583656650fa7e7230feaad32d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-16 04:32:19</sys_updated_on><timeline_page/><title>NeedIt Import REST</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>83864818</payload_hash>
+        <record_name>NeedIt Import REST</record_name>
+        <reverted_from/>
+        <source>b44d50a183656650fa7e7230feaad31b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 04:32:19</sys_created_on>
+        <sys_id>366fdca583656650fa7e7230feaad330</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196d75d534e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 04:32:19</sys_updated_on>
+        <type>Module</type>
+        <update_guid>3a6fdca59165665029c6f994e89a202f</update_guid>
+        <update_guid_history>3a6fdca59165665029c6f994e89a202f:83864818</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt Import REST">5280ec2983656650fa7e7230feaad3e8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 04:37:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>01f7ecba9e704440a4d9b05e6fe9e2a9</sys_id>
+        <sys_metadata>3a6fdca583656650fa7e7230feaad32d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Import REST</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_3a6fdca583656650fa7e7230feaad32d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_3a6fdca583656650fa7e7230feaad32d">366fdca583656650fa7e7230feaad330</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 04:37:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
